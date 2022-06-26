@@ -1,5 +1,7 @@
 # Simple Crowdsourcing Project<img src="https://user-images.githubusercontent.com/61299527/173169381-50559426-c1e0-4908-b61c-67a9cf9aaee4.png" alt="drawing" width="100px" align="middle"/>
 
+This course [32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ) is by [freeCodeCamp](https://www.freecodecamp.org/) with [Patrick Collins](https://www.youtube.com/c/PatrickCollins)! 
+
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
 The project comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts. It also comes with a variety of other tools, preconfigured to work with the project code.
